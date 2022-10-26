@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Pawan Chowdhury
+- 👀 I’m interested in Data Science and Cloud computing
+- 🌱 I’m currently mastering my Data Science skills
+- 💞️ I’m actively looking for a Data Scientist/ Cloud Engineer(Machine Learning) role
+- 📫 How to reach me ... 
+- (https:\\linkedin.com/in/pawan-chowdhury-bba4151a8)
+- pawan.chowdhury2014@gmail.com
