@@ -3,5 +3,5 @@
 - 🌱 I’m currently mastering my Data Science skills
 - 💞️ I’m actively looking for a Data Scientist/ Cloud Engineer(Machine Learning) role
 - 📫 How to reach me ... 
-- linkedin.com/in/pawan-chowdhury-bba4151a8
+- https:\\linkedin.com/in/pawan-chowdhury-bba4151a8
 - pawan.chowdhury2014@gmail.com
